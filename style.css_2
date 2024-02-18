@@ -1,3 +1,6 @@
 h1{
-    color: green;
+    color: black;
+}
+body{
+    background-color: rgb(175, 238, 218);
 }
